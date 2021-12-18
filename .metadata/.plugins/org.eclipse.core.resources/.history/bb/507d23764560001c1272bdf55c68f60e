@@ -1,0 +1,5 @@
+package com.pizza.delivery.config;
+
+public class SecurityConfig {
+
+}
