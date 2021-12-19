@@ -1,0 +1,5 @@
+package com.pizza.delivery.dto;
+
+public class ProductDTO {
+
+}
