@@ -1053,3 +1053,18 @@
 2021-12-19 12:37:28,392 [Worker-36: Launching backend - DeliveryApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2021-12-19 12:37:28,394 [Worker-36: Launching backend - DeliveryApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-12-19 12:37:28,395 [Worker-36: Launching backend - DeliveryApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-19 12:37:28,395 [Worker-36: Launching backend - DeliveryApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Thi\workspace\ws - deliver\delivery\backend\src\test\resources
+2021-12-19 13:11:41,123 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-19 13:11:41,123 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-19 13:11:41,126 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2021-12-19 13:11:41,171 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-12-19 13:11:41,177 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-19 13:11:41,177 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-19 13:11:41,177 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Thi\workspace\ws - deliver\delivery\backend\src\test\resources
+2021-12-19 13:21:36,584 [Worker-48: Launching backend - DeliveryApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-19 13:21:36,584 [Worker-48: Launching backend - DeliveryApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-19 13:21:36,586 [Worker-48: Launching backend - DeliveryApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2021-12-19 13:21:36,633 [Worker-48: Launching backend - DeliveryApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-12-19 13:21:36,635 [Worker-48: Launching backend - DeliveryApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-19 13:21:36,635 [Worker-48: Launching backend - DeliveryApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-19 13:21:36,635 [Worker-48: Launching backend - DeliveryApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Thi\workspace\ws - deliver\delivery\backend\src\test\resources
