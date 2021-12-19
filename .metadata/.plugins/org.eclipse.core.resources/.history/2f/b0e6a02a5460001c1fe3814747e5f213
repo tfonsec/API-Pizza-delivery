@@ -1,0 +1,5 @@
+package com.pizza.delivery.entities;
+
+public class Product {
+
+}

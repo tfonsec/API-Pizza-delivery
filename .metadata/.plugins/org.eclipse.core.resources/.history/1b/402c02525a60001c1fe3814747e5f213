@@ -1,0 +1,27 @@
+package com.pizza.delivery.entities;
+
+import java.io.Serializable;
+import java.time.Instant;
+import java.util.HashSet;
+import java.util.Set;
+
+import lombok.Data;
+import lombok.NoArgsConstructor;
+import lombok.NonNull;
+
+
+@Data
+@NoArgsConstructor
+public class Order implements Serializable {
+	private static final long serialVersionUID = 1L;
+
+	private Long id;
+	private Double address;
+	private Double latitude;
+	private Double longitude;
+	private Instant moment;
+	private OrderStatus status;
+	
+	@NonNull
+	private Set<Product> products = new HashSet<>();
+}

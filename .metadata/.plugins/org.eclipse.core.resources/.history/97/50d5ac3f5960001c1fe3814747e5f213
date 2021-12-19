@@ -1,0 +1,19 @@
+package com.pizza.delivery.entities;
+
+import java.io.Serializable;
+
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+@Data
+@NoArgsConstructor
+public class Product implements Serializable {
+	private static final long serialVersionUID = 1L;
+	
+	private Long id;
+	private String name;
+	private Double price;
+	private String description;
+	private String imageUri;
+
+}

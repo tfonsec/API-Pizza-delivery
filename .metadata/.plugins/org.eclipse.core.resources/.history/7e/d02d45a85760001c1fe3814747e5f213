@@ -1,0 +1,16 @@
+package com.pizza.delivery.entities;
+
+import java.time.Instant;
+
+import com.pizza.delivery.num.OrderStatus;
+
+public class Order {
+
+	private Long id;
+	private Double address;
+	private Double latitude;
+	private Double longitude;
+	private Instant moment;
+	private OrderStatus status;
+	
+}

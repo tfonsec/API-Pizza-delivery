@@ -1,0 +1,5 @@
+package com.pizza.delivery.num;
+
+public enum OrderStatus {
+
+}
